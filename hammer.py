@@ -75,12 +75,13 @@ def dos2():
 
 
 def usage():
-#  _   _   _   _   _ 
-#|_   _| |   \ |   \ | \ | |
-#  | |   | |)  |)   \| |
-#  | |   |  _  / |  _  / | . ` |
-# _| |_  | | \ \ | | \ \ | |\  |
-#|_| |_|  \_\|_|  \_\|_| \_|
+clearDirec()
+#_____  _____           _   _ 
+# |_   _||  __ \    /\   | \ | |
+#   | |  | |__) |  /  \  |  \| |
+#   | |  |  _  /  / /\ \ | . ` |
+#  _| |_ | | \ \ / ____ \| |\  |
+# |_____||_|  \_/_/    \_\_| \_|
 	print (''' \033[92m	Iran's electronic tool is a gift to the Islamic Republic of Iran. 
 Its function is to destroy government websites and block them from service. Your ip is visible. \n
 	usage : python3 hammer.py [-s] [-p] [-t]
