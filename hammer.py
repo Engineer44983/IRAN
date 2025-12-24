@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ Hammer Dos Script v.1
+# python 3.3.2+ IRAN Dos Script v.1
 # by Can Yalçın
 # only for legal purpose
 
@@ -75,16 +75,9 @@ def dos2():
 
 
 def usage():
-clearDirec()
-#_____  _____           _   _ 
-# |_   _||  __ \    /\   | \ | |
-#   | |  | |__) |  /  \  |  \| |
-#   | |  |  _  /  / /\ \ | . ` |
-#  _| |_ | | \ \ / ____ \| |\  |
-# |_____||_|  \_/_/    \_\_| \_|
 	print (''' \033[92m	Iran's electronic tool is a gift to the Islamic Republic of Iran. 
 Its function is to destroy government websites and block them from service. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	usage : python3 IRAN.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
 	-p : port default 80
